@@ -1,0 +1,113 @@
+/* coffee.css */
+.Logo{
+top: 60px;
+left: 80px;
+position: absolute;
+width: 150px;
+height: 50px;
+}
+  
+  .resize_image {
+    top: 125px;
+    left: 800px;
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    box-sizing: content-box;
+    box-shadow: -22px 5cqb 75px 1px rgba(32, 28, 24, 1);
+  }
+  
+.text1{
+  left: 820px;
+  top: 70px;
+  color: rgba(255, 255, 255, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: 'Roboto',sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  list-style: none;
+ 
+}
+.text2{
+  left: 1020px;
+  top: 70px;
+  color: rgba(255, 255, 255, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: 'Roboto',sans-serif;
+  font-weight: 100;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  list-style: none;
+}
+.text3{
+  left: 1200px;
+  top: 70px;
+  color: rgba(255, 255, 255, 1);
+  width: 72px;
+  text-decoration: none;
+  position: absolute;
+  font-size: 30px;
+  font-family:'Roboto',sans-serif;
+  text-align: left;
+  font-weight: 100;
+  list-style: none;
+}
+
+.body{
+  background-color: rgba(107, 74, 52, 1);
+}
+.text4{
+left: 100px;
+top: 250px;
+font-size: 75px;
+position: absolute;
+width: 234px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-decoration: none;
+font-weight: bold;
+color: rgba(32, 28, 24, 1);;
+}
+.text5{
+position: absolute;
+left: 100px;
+top: 420px;
+font-family: 'light';
+color: rgba(32, 28, 24, 1);
+font-size: 20px;
+}
+.text6{
+  position:absolute;
+  text-decoration: none;
+  left: 140px;
+  bottom: 150px;
+  color: rgba(32, 28, 24, 1);
+  font-weight: bold;
+  font-family:inter;
+  font-size: 23px;
+}
+.rectangle{
+  border: 2px rgb(199,160,131);
+  border-radius: 9px;
+  background-color: rgb(199,160,131);
+  width: 135px;
+  height: 40px;
+  position: absolute;
+  left: 130px;
+  bottom: 145px;
+  box-shadow: -2px 1cqb 20px 1px rgba(32, 28, 24, 1);
+
+}
+
